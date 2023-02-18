@@ -109,7 +109,6 @@
 * [styled-components-modifiers](https://github.com/Decisiv/styled-components-modifiers) - Enables BEM flavored modifiers (and responsive modifiers).
 * [webstorm-styled-components](https://github.com/styled-components/webstorm-styled-components) - Highlighting support in IntelliJ editors
 * [styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app.
-* [styled-system](https://github.com/jxnblk/styled-system) - Design system utilities.
 * [styled-map](https://github.com/scf4/styled-map) - Super simple lib to map props to styles.
 * [styled-tools](https://github.com/diegohaz/styled-tools) - Useful interpolated functions.
 
